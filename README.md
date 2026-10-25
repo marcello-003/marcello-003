@@ -14,7 +14,7 @@
 - 🌱 Sedang memperdalam keahlian di bidang **Cloud Computing, Linux Administration, & Network Automation**
 - 🤝 Terbuka untuk berkolaborasi dalam proyek **DevOps, Infrastruktur IT, & Open Source Networking**
 - 💬 Diskusikan dengan saya tentang **Routing/Switching, Virtualisasi, Keamanan Jaringan, & Sistem Operasi**
-- 📫 Cara menghubungi saya: **[LinkedIn/Email Kamu]**
+- 📫 Cara menghubungi saya: **marcellochristopher.id@gmial.com**
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
